@@ -68,7 +68,7 @@ Make sure you have [Node.js](https://nodejs.org/) (version 18 or higher) and `np
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/amanz55/SHOP_HUB.git
+    git clone https://github.com/amanz55/shop_hub.git
     ```
 2.  Navigate to the project directory:
     ```sh
